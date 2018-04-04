@@ -508,7 +508,7 @@ eventbrite: "43144616710"          # optional: alphanumeric key for Eventbrite r
     </div>
   </div>
 </div> {% comment %} End of 'editor' section. {% endcomment %}
-
+<!--
 <div id="matlab"> {% comment %} Start of 'MATLAB' section. {% endcomment %}
   <h3>MATLAB</h3>
 	
@@ -535,3 +535,4 @@ Check if you already have Make installed by typing <code class="highlighter-roug
 <h4 id="windows">Windows</h4>
 <p>Use the Software Carpentry <a href="https://github.com/swcarpentry/windows-installer">Windows installer</a>.</p>
 </div> {% comment %} End of 'Make' section. {% endcomment %}
+-->
